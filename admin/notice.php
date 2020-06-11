@@ -30,10 +30,11 @@ include "includes/sidebar.php";
                     <div class="card">
                         <div class="card-body">
                             <h4 class="header-title">Add Notice</h4>
-
-                            <div id="snow-editor" style="height: 200px;">
-                            </div> <!-- end Snow-editor-->
+                            <form onsubmit="show()">
+                            <textarea class="form-control" id="snow-editor" style="height: 200px;">
+                            </textarea> <!-- end Snow-editor-->
                             <button class="btn btn-block btn-primary mt-2">Update Notice</button>
+                            </form>
                         </div> <!-- end card-body-->
                     </div> <!-- end card-->
                 </div><!-- end col -->
@@ -43,3 +44,9 @@ include "includes/sidebar.php";
     <?php
     include "includes/footer.php";
     ?>
+    <script type="text/javascript">
+        function show(){
+            var tag = document.getElementById('snow-editor').value;
+            alert(tag);
+        }
+    </script>

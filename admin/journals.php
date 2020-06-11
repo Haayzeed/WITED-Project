@@ -50,7 +50,7 @@ include "includes/sidebar.php";
                                             <td>081234567890</td>
                                             <td>The importance of Malaria drugs in Africa</td>
                                             <td>03/06/2020</td>
-                                            <td><a href="" class="btn btn-primary waves-effect waves-light" data-toggle="modal" data-target="#exampleModalScrollable">View</a> <a href="" class="btn btn-success">Approve</a> <a href="" class="btn btn-danger">Delete</a></td>
+                                            <td><a href="modify-journals.php" class="btn btn-primary waves-effect waves-light">View</a> <a href="" class="btn btn-success">Editorial Pick</a> <a href="" class="btn btn-danger">Delete</a></td>
                                         </tr>
                                     </tbody>
                                 </table>

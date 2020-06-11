@@ -5,10 +5,10 @@ include "includes/header.php";
 	<div class="container">
 		<div class="row" style="height: 60px">
 			<div class="col-6">
-				<p>A Brief Introduction</p>
+				<p>Guidelines on Journals</p>
 			</div>
 			<div class="col-6 text-right">
-				<p class="">Home . About</p>
+				<p class="">Home . Guidelines</p>
 			</div>
 		</div>
 	</div>
@@ -23,8 +23,7 @@ include "includes/header.php";
 						<img src="images/journal2.jpg" class="rounded" style="width: 100%; height: 250px" >
 					</div>
 					<div class="col-md-12 mt-5">
-						<h5 class="mb-0">Present and Past</h5>
-						<h2 class="mt-0">A Brief Introduction</h2>
+						<h2 class="mt-0 text-capitalize">Guidelines on Journals</h2>
 						<p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua enim adminim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sed do eiusmod tempor incididunt ut labore.</p>
 						<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum eapiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsame quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo ipsam voluptatem quia voluptasit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.</p>
 						<p>Voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipiscite velit, sed quia non numquam eius modi tempora incidunt.</p>
